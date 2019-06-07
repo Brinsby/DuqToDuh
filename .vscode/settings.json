@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/8bacd4d5-30b7-439a-be4c-0f566749a6e1/resourceGroups/DuqToDo-rg/providers/Microsoft.Web/sites/DuqToDo"
+}
